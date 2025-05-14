@@ -1,0 +1,136 @@
+C 
+Enter Spacebar D3 C E L O R 
+16 Spacebar D2 C H L O 160 
+Spacebar E G N R 
+Enter 16 D2 160 
+C 
+Spacebar D3 L O R 
+Enter 16 Spacebar D2 C E H O 160 
+16 Spacebar L O R T U 160 
+E I O Q R S U 160 
+Enter 16 D2 
+C 
+Enter Spacebar D3 L O R 
+16 Spacebar D2 C E H O 160 
+Spacebar G L O R 
+Enter 16 D2 E N 160 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+Backspace 
+D 
+E 
+L 
+A Y 
+16 160 
+D8 
+D1 
+D9 
+D9 
+Backspace 
+Backspace 
+D0 
+D0 
+D0 
+16 160 
+D9 
+OemComma 
+17 162 
+S 
+1 
+1 
+18 164 
+18 164 
+18 164 
+18 164 
+18 164 
+18 164 
+18 164 
+18 164 
+18 F4 164 
+1 
+17 162 
+C 
+18 164 
+1 
+1 
+17 162 
+V 
+Spacebar 
+16 160 
+I 
+Spacebar 
+N 
+E 
+E 
+D 
+Spacebar 
+T 
+Backspace 
+Backspace 
+Backspace 
+Backspace 
+Backspace 
+Backspace 
+Backspace 
+C 
+H 
+Spacebar 
+B 
+R 
+A U 
+C H 
+E 
+Spacebar 
+D 
+I 
+Spacebar 
+Backspace 
+E 
+Spacebar 
+F 
+N 
+OemMinus 
+T 
+A 
+S 
+T 
+E 
+Spacebar 
+OemPlus 
+Spacebar 
+A 
+L 
+T 
+Spacebar 
+OemPlus 
+F 
+D4 
+Enter 
+1 
+1 
+1 
+D 
+I 
+S 
+P 
+L 
+A Y 
+Spacebar 
+K 
+L 
+A 
+P 
+P 
+E 
+N 
+Enter 
+18 164 
+1 
+18 164 
+18 164 
+17 162 
